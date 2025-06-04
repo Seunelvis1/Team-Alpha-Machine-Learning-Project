@@ -1,5 +1,5 @@
 # Team-Alpha Machine Leanrning Repository
-/usr/bin/bash: line 1: q: command not found
+
 This repository contains data science projects, including datasets, scripts, and analyses, maintained by Team-Alpha for Amdari Machine Learning.
 
 ## Setup Instructions

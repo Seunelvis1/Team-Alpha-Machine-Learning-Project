@@ -26,5 +26,5 @@ To run this notebook locally:
 3.  python -m venv env
     source env/bin/activate  # or `env\Scripts\activate` on Windows
 4.  pip install -r requirements.txt
-/usr/bin/bash: line 1: wq: command not found
+
 
